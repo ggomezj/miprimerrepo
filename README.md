@@ -1,2 +1,2 @@
-#Primer repositorio en GitHub
-estos archivos se crearan para crear un aplicacion web
+# Primer repositorio en GitHub
+Estos archivos se usaran para crear un aplicacion web
